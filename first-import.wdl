@@ -1,4 +1,4 @@
-import "second-import.wdl" as second
+import "Dockstore.wdl" as second
 task hello {
   String name
 
