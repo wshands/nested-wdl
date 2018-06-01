@@ -1,3 +1,4 @@
+import "first-import.wdl" as first
 task hello {
   String name
 
